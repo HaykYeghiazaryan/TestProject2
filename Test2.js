@@ -1,3 +1,3 @@
 var test2 = function () {
-	console.log("Barev");
+	console.log("Barev Ashxarh");
 }
